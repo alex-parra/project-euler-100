@@ -1,0 +1,17 @@
+{
+  "name": "project-euler-100",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/alex-parra/project-euler-100.git",
+  "author": "Alex Parra <alexpds@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.7.7",
+    "@babel/preset-env": "^7.7.7",
+    "babel-jest": "^24.9.0",
+    "jest": "^24.9.0"
+  }
+}
